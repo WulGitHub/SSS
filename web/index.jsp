@@ -13,6 +13,6 @@
   <body>
 狗烁：<input name="sdsad" value="狗烁"/>
 狗屎<input type="text">
-狗屎<input type="text"> 
+狗屎<input type="text">
   </body>
 </html>
